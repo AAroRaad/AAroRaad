@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **mohammad.veisehnejad@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny person **
-
 - 👨‍💻 All of my projects are available at **[https://portfolio-website-sigma-five-62.vercel.app/](https://portfolio-website-sigma-five-62.vercel.app/)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1R9TiJ5PZGzbyR_rvv7smuybvBmnR2HJw/view?usp=sharing](https://drive.google.com/file/d/1R9TiJ5PZGzbyR_rvv7smuybvBmnR2HJw/view?usp=sharing)**
@@ -21,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/AAroRaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AAroRaad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-kvn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-kvn/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-kvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-kvn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
