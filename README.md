@@ -1,8 +1,6 @@
 # Hi 👋, I'm Mohammad KaramVeysehNezhad
 
-### A passionate Typescript developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AAroRaad&label=Profile views&color=0e75b6&style=flat" alt="AAroRaad" /> </p>
+### Front-End Developer focused on building responsive, user-friendly web applications with clean and efficient code. Passionate about UI/UX, problem-solving, and continuous learning.
 
 - 🔭 I'm currently working on **A Front-End Project**
 
