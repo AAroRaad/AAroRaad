@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://portfolio-website-sigma-five-62.vercel.app/](https://portfolio-website-sigma-five-62.vercel.app/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1R9TiJ5PZGzbyR_rvv7smuybvBmnR2HJw/view?usp=sharing](https://drive.google.com/file/d/1R9TiJ5PZGzbyR_rvv7smuybvBmnR2HJw/view?usp=sharing)**
+-  📄 Know about my experiences **[https://drive.google.com/file/d/1qD7fSalGaR8DYtV3ztI6qxEfFiyR9yNY/view?usp=drive_link](https://drive.google.com/file/d/1qD7fSalGaR8DYtV3ztI6qxEfFiyR9yNY/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
