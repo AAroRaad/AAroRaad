@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React.js, Next.js, TypeScript**
 
-- 📫 How to reach me **mohammad.veisehnejad@gmail.com**
+- 📫 How to reach me **aaro.se7en@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://portfolio-website-sigma-five-62.vercel.app/](https://portfolio-website-sigma-five-62.vercel.app/)**
 
